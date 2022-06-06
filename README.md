@@ -5,5 +5,5 @@
 - Therefore, a software-based stabilization method is proposed by geometrical
 modeling to compensate the distortions of the projected image in this paper.
 
-### I proposed this algorithms for master's thesis paper.
+### I proposed this algorithms for master's thesis paper. 📒📕📗📘
 
