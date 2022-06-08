@@ -6,4 +6,8 @@
 modeling to compensate the distortions of the projected image in this paper.
 
 ### I proposed this algorithms for master's thesis paper. 📒📕📗📘
+- Paper: https://drive.google.com/file/d/1qXox6GpSvR-LvTYYBrsfzgkuTNLBtAkJ/view?usp=sharing
+- Demo Video: https://youtu.be/4A9rHYnviM4 (stabilization-off); https://youtu.be/ukIrXobmIYM (stabilization-on)
+
+
 
